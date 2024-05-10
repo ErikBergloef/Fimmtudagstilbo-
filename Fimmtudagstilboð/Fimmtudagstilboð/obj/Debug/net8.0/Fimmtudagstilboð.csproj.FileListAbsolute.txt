@@ -1,0 +1,14 @@
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\Fimmtudagstilboð.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\Fimmtudagstilboð.AssemblyInfoInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\Fimmtudagstilboð.AssemblyInfo.cs
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\Fimmtudagstilboð.csproj.CoreCompileInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\bin\Debug\net8.0\Fimmtudagstilboð.exe
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\bin\Debug\net8.0\Fimmtudagstilboð.deps.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\bin\Debug\net8.0\Fimmtudagstilboð.runtimeconfig.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\bin\Debug\net8.0\Fimmtudagstilboð.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\bin\Debug\net8.0\Fimmtudagstilboð.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\Fimmtudagstilboð.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\refint\Fimmtudagstilboð.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\Fimmtudagstilboð.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\Fimmtudagstilboð.genruntimeconfig.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Fimmtudagstilboð\Fimmtudagstilboð\obj\Debug\net8.0\ref\Fimmtudagstilboð.dll
